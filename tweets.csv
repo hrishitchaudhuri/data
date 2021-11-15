@@ -1,0 +1,22 @@
+tweetid,text,tweetcreatedat,location,retweetcount,favouritecount,userid,sourcetype
+11,aa,2018-06-01,Sanlicheng,3426,2314,3,Twitter for iPhone
+12,bb,2013-03-27,Lebak,3829,1178,4,Twitter for Android
+13,cc,2008-11-06,Pianbai,2616,404,5,Twitter for iPhone
+14,dd,2012-11-15,San Jose,407,674,6,Twitter for Web
+15,ee,2010-04-26,Holma,3037,523,7,Twitter for Android
+16,ff,2015-03-03,Katav-Ivanovsk,3998,388,7,Twitter for Android
+17,gg,2014-12-02,Prilep,85,3742,8,Twitter for Web
+18,hh,2010-03-20,Kagal’nitskaya,4367,4145,9,Twitter for Web
+19,ii,2010-09-17,Ogwashi-Uku,1813,2763,8,Twitter for Web
+20,jj,2010-09-18,Sanqishi,2996,3871,9,Twitter for Web
+21,kk,2015-07-09,Yangxunqiao,923,3262,8,Twitter for Web
+22,ll,2017-07-15,Nobo,555,3883,9,Twitter for Web
+23,mm,2016-06-09,La Floresta,1658,62,8,Twitter for Web
+24,nn,2019-12-11,Nanling,396,348,9,Twitter for Web
+26,pp,2015-02-04,Rio,2665,3935,10,Twitter for Web
+27,qq,2008-07-31,Cachipay,470,3124,8,Twitter for Web
+28,rr,2017-01-16,Yanjiang,2867,3138,10,Twitter for Web
+29,ss,2007-04-18,Xilian,2885,4290,10,Twitter for Web
+30,tt,2010-02-08,Maloco,4060,4692,10,Twitter for Web
+31,uu,2019-08-07,Buchlovice,2267,3563,10,Twitter for Web
+32,vv,2014-02-18,Tmourghout,839,1087,9,Twitter for Android
